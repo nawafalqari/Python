@@ -1,0 +1,6 @@
+# ==  Checks the equality
+# <   Returns True if the left-hand side operand is less than the right-hand side operand
+# >   Returns True if the left-hand side operand is greater than the right-hand side operand
+# <=  Returns True if the left-hand side operand is less than or equal to the right-hand side operand
+# >=  Returns True if the left-hand side operand is gerater than or equal to the right-hand side operand
+# !=  Returns True if the left-hand side operand is not equal to the right-hand side operand
